@@ -73,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ######  Here started all my changes!!!!!!!!!
 
 ### `npm install react-icons` I have installed this package to use react icons
+
+### "npm install axios" это пакет нужен для http запросов, с помощью этого пакета мы можем делать запросы любого типа
+
+### "npm install redux react-redux"  этот пакет нужен для того чтобы работать с redux. Redux упрощает работы с данными, например без redux мы бы передавали данные из компонента в компоненту с помощью props, а с помощью redux можно передавать данные в любую компоненту легко и без использования props
